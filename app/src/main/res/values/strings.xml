@@ -2,4 +2,6 @@
     <string name="app_name">CustomDownloadManger</string>
     <string name="notification_channel_id">custom_download_manager</string>
     <string name="permission_request">Need storage permission to download file.</string>
+    <string name="btn_ok">Okay</string>
+    <string name="skip">Okay</string>
 </resources>
